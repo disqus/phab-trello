@@ -1,0 +1,9 @@
+export PORT=
+export PHAB_TOKEN=
+export PHAB_URL=
+export TRELLO_KEY=
+export TRELLO_TOKEN=
+export DB_USER=
+export DB_PASS=
+export DB=
+node server.js
